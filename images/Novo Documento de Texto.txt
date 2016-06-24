@@ -1,0 +1,1 @@
+update livro set Imagem='images/10-2.jpg' where Codigo = 1
